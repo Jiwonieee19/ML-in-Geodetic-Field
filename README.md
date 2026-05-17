@@ -3,16 +3,24 @@ using 3 models (Random Forest, Support Vector Regression, Long Short-Term Memory
 
 
 Regression Metrics
+
 ![Regression Metrics](regression_metrics.png)
 
+
 Model Comparison Bar Graph
+
 ![Model Comparison](model_comparison.png)
 
+
 Velocity Field Mapping
+
 ![Velocity Field Mapping](velocity_field_map.png)
 
+
 Strain Analysis Mapping
+
 ![Strain Analysis Mapping](strain_map.png)
+
 
 Just DL the notebook file and run in your colab/local IDE
 
